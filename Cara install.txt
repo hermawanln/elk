@@ -1,0 +1,7 @@
+1. Aktifkan docker
+
+2. Klik Shift + Klik Kanan pada mouse
+
+3. Pilih Open Powershell / CMD here.
+
+4. ketik command "$ docker-compose up"
